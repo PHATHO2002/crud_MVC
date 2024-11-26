@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav>li {
+    padding-left: 10px;
+    border-right: 2px solid black !important;
+}
+
+.container {
+    padding: 20px;
+    border-top: 1px solid black !important;
+    border-bottom: 1px solid black !important;
+}
